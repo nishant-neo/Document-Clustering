@@ -1,2 +1,2 @@
 # Document-Clustering
-A project that takes a set of documents and groups them into clusters using K-means and Hierarchical Clustering Algorithms.
+An application that begins by gathering synopses on the top 100 films of all time and ended by analyzing the latent topics within each document. With intermediate manipulations on these synopses (tokenization, stemming, stopwords), transformed them into a vector space model (tf-idf), and clustered them into groups (k-means and hierarchical)
